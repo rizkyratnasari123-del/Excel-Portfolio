@@ -14,7 +14,7 @@ This portfolio showcases my best Excel and data analysis projects, demonstrating
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 ### **1. Data Cleaning & Preparation – Excel (Power Query + Formulas)**
 
