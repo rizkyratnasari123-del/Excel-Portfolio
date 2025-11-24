@@ -1,6 +1,6 @@
 # Excel-Portfolio
 Portfolio Excel &amp; Data Analysis
-# 📊 Excel & Data Analysis Portfolio
+# Excel & Data Analysis Portfolio
 
 Hello! I’m **Rizky Ratna Sari**, a *Data Analyst* with strong skills in:
 
@@ -82,7 +82,7 @@ This portfolio showcases my best Excel and data analysis projects, demonstrating
 
 ---
 
-## 📘 Documentation Template (for every project)
+## Documentation Template (for every project)
 
 ### **📄 documentation.md Template**
 
